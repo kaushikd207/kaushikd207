@@ -1,6 +1,6 @@
 ### Hi, I am Kaushik 👋
 
-- 🔭 I’m currently working on -- Web developement
+- 🔭 I’m currently working as a UI developer(React) at EvolentHealth International Private Limited
 - 👯 I’m looking to collaborate on -- Big full stack project
 - 🤔 I’m looking for help -- On my project
 - 💬 Ask me about -- Anything (only project)
