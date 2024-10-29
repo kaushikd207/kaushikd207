@@ -6,6 +6,7 @@
 - 💬 Ask me about -- Anything (only project)
 - 📫 How to reach me: -- kaushikd207@gmail.com
 - ⚡ Fun fact: -- Adventurer
+## Profiles
 -Leetcode:- https://leetcode.com/kaushikd207/
 -LinkedIn:- https://www.linkedin.com/in/kaushik-das-a95710145/
 -Portfolio:- https://www.vglink.canwebe.in/p/kaushikdas
