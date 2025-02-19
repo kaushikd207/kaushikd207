@@ -1,4 +1,4 @@
-### Hi, I am Kaushik 👋
+### Hi, I am Kaushik Eagerly Looking for a Frontend Developer Role👋
 
 - 🔭 I’m currently working as a Frontend developer(React)
 - 👯 I’m looking to collaborate on -- Big full stack project
