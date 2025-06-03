@@ -60,15 +60,6 @@
 </p>
 
 ---
-
-## 🏆 Leetcode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/kaushikd207?theme=dark&font=Roboto&ext=contest" height="180"/>
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
