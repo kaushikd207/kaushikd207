@@ -2,7 +2,7 @@
 <!-- ![Banner](https://your-custom-banner-link.com/banner.png) -->
 
 <h1 align="center">Hi 👋, I'm Kaushik Das</h1>
-<h3 align="center">🌟 Frontend Developer | React Enthusiast | Adventurer</h3>
+<h3 align="center">🌟 Full-Stack Developer | React Enthusiast | Adventurer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Frontend+Developer;React+%7C+JavaScript+%7C+CSS+Lover;Open+Source+Contributor;Always+Learning+New+Tech!&center=true&width=500&height=45">
@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-- 💻 Frontend Developer specializing in **React.js** and modern web technologies.
+- 💻 Full-stack Developer specializing in **React.js, Nextjs, Nodejs, Express, Postgresql, Mongodb, Redis** and modern web technologies.
 - 🤝 Looking to collaborate on **ambitious full stack projects**.
 - 🧑‍💻 Currently working on real-world React apps and open source contributions.
 - 💡 Always open to learning and sharing knowledge.
